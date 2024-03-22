@@ -1,4 +1,8 @@
+
 import React from 'react';
+
+import Comment from "../Comment.jsx";
+
 function Post(){
   return(
     <div>
